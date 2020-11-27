@@ -7,7 +7,6 @@
 
 [![spark's 42 stats](https://badge42.herokuapp.com/api/stats/spark)](https://github.com/JaeSeoKim/badge42)
 
-🙈 I am interested in ......
 
 🚀 I'm dreaming of becoming a FullStack developer!
 
