@@ -6,7 +6,7 @@
 
 🌱 I am a student developer studying in 42Seoul.  
 🏃🏻  I majored in psychology. And I'm very interested in people.  
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="340" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="335" height="320" />
 <br/>
 
 [![spark's 42 stats](https://badge42.herokuapp.com/api/stats/spark)](https://github.com/JaeSeoKim/badge42)
