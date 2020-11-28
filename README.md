@@ -6,7 +6,7 @@
 
 🌱 I am a student developer studying in 42Seoul. 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="350" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="330" />
 <br/>
 
 [![spark's 42 stats](https://badge42.herokuapp.com/api/stats/spark)](https://github.com/JaeSeoKim/badge42)
