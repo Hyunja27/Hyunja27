@@ -5,8 +5,7 @@
 ---
 
 🌱 I am a student developer studying in 42Seoul.  
-🏃🏻 I majored in psychology. And I'm very interested in people.
-
+🏃🏻  I majored in psychology. And I'm very interested in people.  
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="330" />
 <br/>
 
