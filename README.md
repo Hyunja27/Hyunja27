@@ -18,7 +18,10 @@
 
 ---
 
-**🚧 Working in Progress**
+**🚧 finished sub's gif && in Progress **
+
+<img align="left" alt="GIF" src="https://postfiles.pstatic.net/MjAyMTA2MjFfMjM0/MDAxNjI0MjAzODQzNjM0.yC5IomTuP5ny29UEW2ltP9gwsB5WsKtlCckjrHDevCIg.oob1y8Fvp-cau8g0lpByyLQXBcGXLFTeLIjAaLScGkkg.GIF.123gk/ezgif.com-gif-maker_(1).gif" width="335" height="295" />
+<br/>
 
 ```c
 void	spark(t_study *study_list)
@@ -40,7 +43,23 @@ void	spark(t_study *study_list)
 
 **👷 Skill list Now on**
 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<div align="center" >
+  <code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" height="48" alt="C"/>
+  </code>
+  <code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="48" alt="python"/>
+  </code>
+  <code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" height="48" alt="django"/>
+  </code>
+  <code>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="48" alt="postgresql"/>
+  </code>
+  <code>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="48" alt="docker"/>
+  </code>
+</div>
 
 ---
 
