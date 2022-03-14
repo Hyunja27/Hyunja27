@@ -1,9 +1,10 @@
 ## Hi there, I'm spark! 👋
 
+<br/>
+<br/>
 
-**⚡️Badges :** ![42](https://badgen.net/badge/Born2Code/spark/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
----
 
+<!-- **⚡️Badges :** ![42](https://badgen.net/badge/Born2Code/spark/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) -->
 
 
 <!-- <div align=right>  -->
@@ -16,6 +17,8 @@
 🌱 I am a student developer studying in 42Seoul.  
 🏃🏻  I majored in psychology. And I'm very interested in people.  
 <br/>
+<br/>
+
 
 <!-- [![spark's 42 stats](https://badge42.herokuapp.com/api/stats/spark)](https://github.com/JaeSeoKim/badge42) -->
 
@@ -25,8 +28,9 @@
 
 
 ---
+<br/>
 
-**🚧 My First Game_Project in C lang && Go Further **
+#### 🚧 My First Game_Project in C lang && Go Further
 
 
 <img align="left" alt="GIF" src="https://postfiles.pstatic.net/MjAyMTA2MjFfMjM0/MDAxNjI0MjAzODQzNjM0.yC5IomTuP5ny29UEW2ltP9gwsB5WsKtlCckjrHDevCIg.oob1y8Fvp-cau8g0lpByyLQXBcGXLFTeLIjAaLScGkkg.GIF.123gk/ezgif.com-gif-maker_(1).gif" width="285" height="285" />
@@ -49,8 +53,12 @@ void	spark(t_study *study_list)
 ```
 
 ---
+<br/>
 
-**👷 Skill list Now on**
+
+#### 👷 Skill list Now on
+
+###### _(Descending order of frequency of use)_
 
 <div align="center" >
 <!--   <code>
@@ -79,9 +87,6 @@ void	spark(t_study *study_list)
     </code>
   <code>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="48" alt="Javacript"/>
-  </code>
-  <code>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="48" alt="C"/>
   </code>
   <code>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="48" alt="C"/>
@@ -119,14 +124,26 @@ void	spark(t_study *study_list)
   <code>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="48" alt="nodeJS"/>
   </code>
-  <code>
-      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="48" alt="VIM"/>
-  </code>
+    
+  <br/>
+    
+    
+   <div align="center">
+       
+ ### With
+       
+   </div>
+    
+  <br/>
+    
   <code>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="48" alt="Visualstudiocode"/>
   </code>
   <code>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" alt="Slack"/>
+  </code>
+ <code>
+      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="48" alt="VIM"/>
   </code>
     
 </div>
