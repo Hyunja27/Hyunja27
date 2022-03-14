@@ -75,6 +75,9 @@ void	spark(t_study *study_list)
       <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" height="48" alt="Vite"/>
   </code>
   <code>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="48" alt="Typescript"/>
+  </code>
+  <code>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="48" alt="Figma"/>
   </code>
   <code>
