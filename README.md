@@ -105,31 +105,14 @@ void	spark(t_study *study_list)
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="48" alt="nodeJS"/>
   </code>
   <code>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" alt="Slack"/>
-  </code>
-    
-  <code>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" alt="Slack"/>
-  </code>
-    
-    
-  <code>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" alt="Slack"/>
-  </code>
-  <code>
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="48" alt="VIM"/>
   </code>
   <code>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="48" alt="Visualstudiocode"/>
   </code>
-    
-    
-    
-   
-    
-    
-    
-    
+  <code>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" alt="Slack"/>
+  </code>
     
 </div>
 
