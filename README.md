@@ -76,6 +76,18 @@ void	spark(t_study *study_list)
   </code>
   <code>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="48" alt="Typescript"/>
+    </code>
+  <code>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="48" alt="Javacript"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="48" alt="C"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="48" alt="C"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="48" alt="C++"/>
   </code>
   <code>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="48" alt="Figma"/>
