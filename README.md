@@ -53,7 +53,7 @@ void	spark(t_study *study_list)
 **👷 Skill list Now on**
 
 <div align="center" >
-  <code>
+<!--   <code>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" height="48" alt="C"/>
   </code>
   <code>
@@ -67,7 +67,70 @@ void	spark(t_study *study_list)
   </code>
   <code>
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="48" alt="docker"/>
+  </code> -->
+  <code>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="48" alt="React"/>
   </code>
+  <code>
+      <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" height="48" alt="Vite"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="48" alt="Figma"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="48" alt="Bootstrap"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" height="48" alt="Swagger"/>
+  </code>
+  <code>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="48" alt="Docker"/>
+  </code>
+  <code>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="48" alt="Django"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="48" alt="Mariadb"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="48" alt="Mysql"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="PostgredQl"/>
+  </code>
+  <code>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="48" alt="Nginx"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="48" alt="nodeJS"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" alt="Slack"/>
+  </code>
+    
+  <code>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" alt="Slack"/>
+  </code>
+    
+    
+  <code>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" alt="Slack"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="48" alt="VIM"/>
+  </code>
+  <code>
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="48" alt="Visualstudiocode"/>
+  </code>
+    
+    
+    
+   
+    
+    
+    
+    
+    
 </div>
 
 ---
