@@ -28,7 +28,7 @@
 
 **🚧 My First Game_Project in C lang && Go Further **
 
-<img align="left" alt="GIF" src="https://postfiles.pstatic.net/MjAyMTA2MjFfMjM0/MDAxNjI0MjAzODQzNjM0.yC5IomTuP5ny29UEW2ltP9gwsB5WsKtlCckjrHDevCIg.oob1y8Fvp-cau8g0lpByyLQXBcGXLFTeLIjAaLScGkkg.GIF.123gk/ezgif.com-gif-maker_(1).gif" width="305" height="295" />
+<img align="left" alt="GIF" src="https://postfiles.pstatic.net/MjAyMTA2MjFfMjM0/MDAxNjI0MjAzODQzNjM0.yC5IomTuP5ny29UEW2ltP9gwsB5WsKtlCckjrHDevCIg.oob1y8Fvp-cau8g0lpByyLQXBcGXLFTeLIjAaLScGkkg.GIF.123gk/ezgif.com-gif-maker_(1).gif" width="265" height="255" />
 <br/>
 
 ```c
