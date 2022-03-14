@@ -8,7 +8,7 @@
 
 <!-- <div align=right>  -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunja27&count_private=true&show_icons=true&theme=vue-dark)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="365" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="305" />
 <!-- </div> -->
 
 
