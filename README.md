@@ -92,6 +92,9 @@ void	spark(t_study *study_list)
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="48" alt="C"/>
   </code>
   <code>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="48" alt="python"/>
+  </code>
+  <code>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="48" alt="C++"/>
   </code>
   <code>
