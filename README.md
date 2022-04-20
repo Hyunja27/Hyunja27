@@ -100,12 +100,12 @@ void	spark(t_study *study_list)
   <code>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="48" alt="Figma"/>
   </code>
-  <code>
+<!--   <code>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="48" alt="Bootstrap"/>
-  </code>
-  <code>
+  </code> -->
+<!--   <code>
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" height="48" alt="Swagger"/>
-  </code>
+  </code> -->
   <code>
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="48" alt="Docker"/>
   </code>
