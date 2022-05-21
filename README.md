@@ -9,14 +9,9 @@
 <!-- <div align=right>  -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunja27&count_private=true&show_icons=true&theme=vue-dark) -->
 
-
-
-<p style="position: absolute; display: flex;"> 
-
   [![spark's 42 stats](https://badge42.vercel.app/api/v2/cl1p4jdo4009909k1pn43cbto/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
  
  <img alt="GIF" style="float:right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="245" />
-</p>
 
 
 🌱 I am a student developer studying in 42Seoul.  
