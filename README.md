@@ -3,16 +3,20 @@
 <br/>
 <br/>
 
-
 <!-- **⚡️Badges :** ![42](https://badgen.net/badge/Born2Code/spark/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
  -->
 
 <!-- <div align=right>  -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunja27&count_private=true&show_icons=true&theme=vue-dark) -->
-[![spark's 42 stats](https://badge42.vercel.app/api/v2/cl1p4jdo4009909k1pn43cbto/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="245" align="right" />
-<!-- </div> -->
+
+
+<p style="position: absolute; display: flex;"> 
+
+  [![spark's 42 stats](https://badge42.vercel.app/api/v2/cl1p4jdo4009909k1pn43cbto/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+ 
+ <img alt="GIF" style="float:right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="245" />
+</p>
 
 
 🌱 I am a student developer studying in 42Seoul.  
