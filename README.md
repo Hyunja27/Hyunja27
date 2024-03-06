@@ -2,10 +2,6 @@
 
 <br/>
 <br/>
-
-<!-- **⚡️Badges :** ![42](https://badgen.net/badge/Born2Code/spark/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
- -->
-
 <!-- <div align=right>  -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunja27&count_private=true&show_icons=true&theme=vue-dark) -->
 
