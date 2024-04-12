@@ -5,10 +5,6 @@
 <!-- <div align=right>  -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunja27&count_private=true&show_icons=true&theme=vue-dark) -->
 
-  [![spark's 42 stats](https://badge42.vercel.app/api/v2/cl1p4jdo4009909k1pn43cbto/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
- <img alt="GIF" align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="310" height="285" />
-
-
 🌱 I am a student developer studying in 42Seoul.  
 🏃🏻  I majored in psychology. And I'm very interested in people.  
 <br/>
